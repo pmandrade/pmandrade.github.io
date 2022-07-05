@@ -45,13 +45,6 @@ CCT Connect ADA Paratransit Program
     </embed>
 </object>
 
-CITI Facitilies
-<object data="http://patrickandrade.me/assets/CITI-facilities.docx" type="application/docx" width="700px" height="700px">
-    <embed src="http://patrickandrade.me/assets/CITI-facilities.docx">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://patrickandrade.me/assets/CITI-facilities.docx">Download PDF</a>.</p>
-    </embed>
-</object>
-
 DART - ADA Paratransit Services Application
 <object data="http://patrickandrade.me/assets/DART - ADA Paratransit Services App.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="http://patrickandrade.me/assets/DART - ADA Paratransit Services App.pdf">
